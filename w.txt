@@ -1,2 +1,4 @@
 Password w
-Current Balance R0.0
+Current Balance: 20.0
+2024-05-20 Withdrawal 5.0
+Current Balance: 15.0
